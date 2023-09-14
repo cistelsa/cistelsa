@@ -1,8 +1,10 @@
 ### Quien soy? 👋
 
+<p align=center>
+
 https://github.com/cistelsa/cistelsa/assets/17438992/62087146-8883-46bf-b57c-7ce95209c996
 
-
+</p>
 <!--
 **cistelsa/cistelsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
