@@ -1,4 +1,4 @@
-### Quien soy? 👋
+### Mi vida Tecnológica en un Gráfico 👋
 
 https://github.com/cistelsa/cistelsa/assets/17438992/62087146-8883-46bf-b57c-7ce95209c996
 
